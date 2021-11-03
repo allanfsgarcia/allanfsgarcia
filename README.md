@@ -1,6 +1,6 @@
 ## Oi, eu sou o Allan Garcia 👨‍🚀
 
-- �Front-End Developer
+- :technologist:Front-End Developer
 - 👨‍💻Estudando HTML, CSS e Javascript
 
 <div align="center">
