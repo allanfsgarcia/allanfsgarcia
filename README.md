@@ -1,6 +1,6 @@
 ## Oi, eu sou o Allan Garcia 👨‍🚀
 
-- 🌱Procurando trabalho
+- �Front-End Developer
 - 👨‍💻Estudando HTML, CSS e Javascript
 
 <div align="center">
