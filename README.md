@@ -1,7 +1,10 @@
-## Oi, eu sou o Allan Garcia 👨‍🚀
+## Hi, I'm Allan Garcia 👨‍🚀
 
 - :technologist:Front-end Developer
-- 👨‍💻Estudando HTML, CSS e Javascript
+
+-What i'm focusing on👨‍💻
+
+#Currently improving my HTML, CSS and Javascript skills.
 
 <div align="center">
   <a href="https://github.com/allanfsgarcia">
