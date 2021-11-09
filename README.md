@@ -2,9 +2,9 @@
 
 - :technologist:Front-end Developer
 
--What i'm focusing on👨‍💻
+## What i'm focusing on👨‍💻
 
-#Currently improving my HTML, CSS and Javascript skills.
+# Currently improving my HTML, CSS and Javascript skills.
 
 <div align="center">
   <a href="https://github.com/allanfsgarcia">
