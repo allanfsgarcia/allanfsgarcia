@@ -22,9 +22,11 @@
 
   <a href="https://www.linkedin.com/in/allanfsgarcia/" alt="Linkedin">
   <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+                                                                                                          
+<a href="https://medium.com/@allan.fsgarcia" alt="Medium">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/allan.fsgarcia"/></a>
+
 </p>  
 
 [![allanfsgarcia](https://github-readme-stats.vercel.app/api/top-langs/?username=allanfsgarcia&hide=html&layout=compact&theme=default)](https://github.com/allanfsgarcia/)
