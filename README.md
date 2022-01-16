@@ -1,45 +1,31 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  Hello world! Eu sou o Allan Garcia <strong>Desenvolvedor Front-end</strong>.<br>
- 
+  Hello world👨‍🚀! Eu sou o Allan Garcia <strong>Desenvolvedor Front-End</strong>.<br>
+  No momento estou estudando programação web e procurando por uma oportunidade de emprego👨‍💻.
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>HTML,CSS, JavaScript.</strong>
+  🦄 Habilidades: <strong>JavaScript,CSS e HTML.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, Figma, Git, PowerShell, Bash, GitHub.</strong>
+  💼 Ferramentas: <strong>VSCode, Figma, Git, Github, Powershell, Bash  .</strong>
 </p>
 
 <p align="left">
-  💌 Você pode me encontrar aqui: ⤵️
+  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
 </p>
 
-<div align="center">
-  <a href="https://github.com/allanfsgarcia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allanfsgarcia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanfsgarcia&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=allanyauch@gmail.com" /></a>
 
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allanfsgarcia/" /></a>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  </div>
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/allan.fsgarcia"/></a>
+</p>  
 
-##
- 
-<div> 
-    
-  <a href="https://www.linkedin.com/in/allan-garcia-670b0538/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:allanyauch@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/allan.fsgarcia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
-
-
-
-
+[![allanfsgarcia](https://github-readme-stats.vercel.app/api/top-langs/?username=allanfsgarcia&hide=html&layout=compact&theme=default)](https://github.com/allanfsgarcia/)
