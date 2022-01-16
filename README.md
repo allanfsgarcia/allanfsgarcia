@@ -29,4 +29,3 @@
 
 </p>  
 
- ![Snake animation](https://github.com/allanfsgarcia/allanfsgarcia/blob/output/github-contribution-grid-snake.svg)
