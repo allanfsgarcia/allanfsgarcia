@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 <p align="left"> 
   Hello world!👨‍🚀
-  Eu sou o Allan Garcia, <strong>Desenvolvedor Front-End</strong>.<br>
+  sou o Allan Garcia, <strong>Desenvolvedor Front-End</strong>.<br>
   No momento estou estudando programação web e procurando por uma oportunidade de emprego👨‍💻.
 </p>
 
