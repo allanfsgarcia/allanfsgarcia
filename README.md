@@ -2,7 +2,7 @@
 <p align="left"> 
   Hello world!👨‍🚀
   sou o Allan Garcia, <strong>Desenvolvedor Front-End</strong>.<br>
-  No momento estou estudando programação web e procurando por uma oportunidade de emprego👨‍💻.
+  No momento estou estudando programação para web e desenvolvendo meu portifólio👨‍💻.
 </p>
 
 <p align="left">
