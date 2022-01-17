@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, Figma, Git, Github, Powershell, Bash  .</strong>
+  💼 Ferramentas: <strong>VSCode, Figma, Git, Github, Powershell, Bash e Scrum .</strong>
 </p>
  <div align="left">
   <a href="https://github.com/allanfsgarcia">
